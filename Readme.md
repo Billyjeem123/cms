@@ -13,6 +13,10 @@ In this project, I taught my student how to implement the following features.
 2) Image upload in PHP
 3) Using joins in PHP
 3) Using a session
+4) Admin portal
+5)Subscriber portal
+5)Approve post by subscribers
+6)
 etc.
 
 # Project View.
