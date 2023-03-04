@@ -18,7 +18,7 @@
         <div class="col-md-8">
             <?php
 
-            $per_page = 8;
+            $per_page = 4;
 
 
             if (isset($_GET['page'])) {
