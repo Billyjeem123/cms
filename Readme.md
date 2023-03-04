@@ -16,7 +16,8 @@ In this project, I taught my student how to implement the following features.
 4) Admin portal
 5)Subscriber portal
 5)Approve post by subscribers
-6)
+6) Feching external API's [BONUS].
+7)Pagination
 etc.
 
 # Project View.
@@ -47,7 +48,7 @@ etc.
 
 # Project Duration.
 
- * [x] 2 month 15 days
+ * [x] 3 month 15 days
 
  ```
 
