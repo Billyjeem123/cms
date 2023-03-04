@@ -3,7 +3,7 @@
 
 
 
- Project-Url [cms_gallery](localhost/cms_gallery)
+ Project-Url [cms](localhost/cms)
 
 During my internship duration at Fireswitch as a Backend intern developer, I was opportune to take some students' PHP from the fundamentals to project building aspect...
 
@@ -47,7 +47,7 @@ etc.
 
 # Project Duration.
 
- * [x] 1 month 15 days
+ * [x] 2 month 15 days
 
  ```
 
