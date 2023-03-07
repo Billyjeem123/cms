@@ -5,7 +5,7 @@
 
  Project-Url [cms](localhost/cms)
 
-During my internship duration at Fireswitch as a Backend intern developer, I was opportune to take some students' PHP from the fundamentals to project building aspect...
+During my time as a Backend intern developer at Fireswitch, I had the opportunity to guide students through the fundamentals of PHP all the way to project building.
 
 In this project, I taught my student how to implement the following features.
 
@@ -16,7 +16,7 @@ In this project, I taught my student how to implement the following features.
 4) Admin portal
 5)Subscriber portal
 5)Approve subscribers post by  admin
-6) Feching external API's [BONUS].
+6) Fetching external API's [BONUS].
 7) Pagination
 etc.
 
