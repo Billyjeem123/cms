@@ -15,9 +15,9 @@ In this project, I taught my student how to implement the following features.
 3) Using a session
 4) Admin portal
 5)Subscriber portal
-5)Approve post by subscribers
+5)Approve subscribers post by  admin
 6) Feching external API's [BONUS].
-7)Pagination
+7) Pagination
 etc.
 
 # Project View.
